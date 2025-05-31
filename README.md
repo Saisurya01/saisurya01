@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm kosuri sai surya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Ecommerce Website**
-
-- 🌱 I’m currently learning **reactjs**
-
 - 👨‍💻 All of my projects are available at [https://saisurya01.github.io/My-Portfolio/](https://saisurya01.github.io/My-Portfolio/)
-
-- 💬 Ask me about **html,css and js**
 
 - 📫 How to reach me **saisuryakosuri@gmail.com**
 

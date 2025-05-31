@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/@saisuryakosuri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saisuryakosuri1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saisuryakosuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisuryakosuri" height="30" width="40" /></a>
-<a href="https://fb.com/sai surya kosuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sai surya kosuri" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61573774282656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sai surya kosuri" height="30" width="40" /></a>
 <a href="https://instagram.com/saisurya_kosuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saisurya_kosuri" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Untold-Truths0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="untold truths" height="30" width="40" /></a>
 </p>

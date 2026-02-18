@@ -112,9 +112,6 @@ Currently seeking **Frontend Developer / Software Engineering Internship** oppor
 ![GitHub Streak](https://streak-stats.demolab.com?user=saisurya01&theme=dark)
 
 ---
-
-## 🌐 Connect With Me
-
 ## 🌐 Connect With Me
 
 <p align="left">

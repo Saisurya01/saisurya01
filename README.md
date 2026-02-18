@@ -24,7 +24,7 @@ Currently seeking **Frontend Developer / Software Engineering Internship** oppor
 
 ## 🛠 Tech Stack
 
-<table>
+<table align="center" >
 <tr>
 <td valign="top" width="25%">
 
@@ -107,14 +107,9 @@ Currently seeking **Frontend Developer / Software Engineering Internship** oppor
 - How Is Blockchain Used? – IBM (2025)  
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saisurya01&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisurya01&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=saisurya01&theme=dark)
 
 ---
 

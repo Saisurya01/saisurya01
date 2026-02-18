@@ -114,17 +114,10 @@ Currently seeking **Frontend Developer / Software Engineering Internship** oppor
 ---
 ## 🌐 Connect With Me
 
-<p align="left">
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saisuryakosuri/)
+- 💻 [GitHub](https://saisurya01.github.io)
+- 📧 [jyoshnadevilakku927@gmail.com](mailto:saisuryakosuri@gmail.com)
 
-🔗 <a href="https://www.linkedin.com/in/saisuryakosuri" target="_blank">LinkedIn</a> <br/>
-
-🌍 <a href="https://saisurya01.github.io" target="_blank">Portfolio</a> <br/>
-
-📺 <a href="https://www.youtube.com/@yourchannelname" target="_blank">YouTube</a> <br/>
-
-📧 <a href="mailto:saisuryakosuri@gmail.com">saisuryakosuri@gmail.com</a>
-
-</p>
 
 ---
 

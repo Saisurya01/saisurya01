@@ -116,7 +116,7 @@ Currently seeking **Frontend Developer / Software Engineering Internship** oppor
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saisuryakosuri/)
 - 💻 [GitHub](https://saisurya01.github.io)
-- 📧 [jyoshnadevilakku927@gmail.com](mailto:saisuryakosuri@gmail.com)
+- 📧 [saisuryakosuri@gmail.com](mailto:saisuryakosuri@gmail.com)
 
 
 ---
